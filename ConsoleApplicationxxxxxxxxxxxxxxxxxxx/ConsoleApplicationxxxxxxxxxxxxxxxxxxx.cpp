@@ -6,7 +6,7 @@
 
 int main()
 {
-	//Kevin GroX!!!!
+	//Kevin is a chump!!!
 	return 0;
 }
 
